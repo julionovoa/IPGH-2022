@@ -1,4 +1,4 @@
-# Julia: el lenguaje de programacion del futuro para calculos cientificos
+# Julia: el lenguaje de programacion del futuro
 ## Taller introductorio para aplicaciones geoespaciales
 
 Julio Novoa
