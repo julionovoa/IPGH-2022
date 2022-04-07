@@ -1,2 +1,3 @@
-# julia-cepeige-2022
-Taller introductorio a Julia
+# Taller introductorio a Julia
+2022
+
