@@ -10,12 +10,12 @@ Julio Novoa
 4. Machine learning
 5. Interoperabilidad con Python, R
 
-### Conceptos basicos
+### 1. Conceptos basicos
 
-### DataFrames
+### 2. DataFrames
 
-### ArchGDAL.jl, Rasters.jl
+### 3. ArchGDAL.jl, Rasters.jl
 
-### MLJ
+### 4. MLJ
 
-### PyCall.jl, RCall.jl
+### 5. PyCall.jl, RCall.jl
