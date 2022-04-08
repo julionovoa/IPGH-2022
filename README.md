@@ -1,5 +1,5 @@
-# Julia: el lenguaje de programacion del futuro
-## Taller introductorio para aplicaciones geoespaciales
+# Introduccion al lenguaje de programacion Julia
+## Demo: Aplicaciones Geoespaciales
 
 Julio Novoa
 
@@ -12,10 +12,10 @@ Julio Novoa
 
 ### 1. Conceptos basicos
 
-### 2. DataFrames
+### 2. Manejo de tablas: DataFrames
 
-### 3. ArchGDAL.jl, Rasters.jl
+### 3. Manejo de datos geoespacial: ArchGDAL.jl, Rasters.jl
 
-### 4. MLJ
+### 4. Machine learning: MLJ
 
-### 5. PyCall.jl, RCall.jl
+### 5. Interoperabilidad: PyCall.jl, RCall.jl
