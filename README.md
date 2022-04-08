@@ -4,11 +4,15 @@
 Julio Novoa
 
 ### Tabla de contenido
-1. Conceptos basicos del lenguaje
+0. Configuraciones iniciales
+1. Conceptos basicos de Julia
 2. Manejo de datos tabulares
 3. Manejo de datos geoespaciales
 4. Machine learning
 5. Interoperabilidad con Python, R
+6. Demo
+
+### 0. Configuraciones iniciales
 
 ### 1. Conceptos basicos
 
@@ -19,3 +23,5 @@ Julio Novoa
 ### 4. Machine learning: MLJ
 
 ### 5. Interoperabilidad: PyCall.jl, RCall.jl
+
+### 6. Demo
