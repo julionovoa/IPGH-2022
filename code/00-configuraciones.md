@@ -1,9 +1,9 @@
 # Introduccion a Julia: configuraciones iniciales
 
 ## Instalacion de software
-* Instalar [Julia](https://julialang.org/downloads/) desde `https://julialang.org/downloads/`
-* Instalar [git](https://git-scm.com/) desde `https://git-scm.com/`
-* Instalar [R](https://cran.r-project.org/) desde `https://cran.r-project.org/`
+* Instalar **Julia** desde https://julialang.org/downloads/
+* Instalar **git** desde https://git-scm.com/
+* Instalar **R** desde https://cran.r-project.org/
 
 
 ## Descargar los datos del taller
