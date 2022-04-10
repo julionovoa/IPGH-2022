@@ -15,3 +15,4 @@
 * Usando la terminal, acceder al directorio que contiene el repositorio clonado y ejecutar:<br/>`julia --project`
 ![](/etc/01.png)
 * Instalar las librerias necesarias para el projecto ejecutando:<br/>`] instantiate`
+![](/etc/02.png)
